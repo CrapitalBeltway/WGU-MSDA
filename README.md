@@ -1,2 +1,3 @@
 # Time-Series-Analysis
-Time series analysis code for WGU D213.
+This file is a time series analysis of the hospital's daily revenue data for D213 at WGU.
+I will use the data to forecast the next month of daily revenue.
